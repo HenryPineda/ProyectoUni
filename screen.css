@@ -1,0 +1,124 @@
+
+#drewLogo{
+
+
+	width: 130px;
+	height: 60px;
+}
+
+
+		
+
+#cuerpo {
+
+
+	background-color: #f0f0f2;
+	
+	margin: 0;
+	padding: 0;
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, Sans-serif;
+
+}
+
+
+
+
+#container {
+
+width: 600px;
+margin: 5em auto;
+
+padding: 50px;
+background-color: #fff;
+
+
+
+border-radius: 1em;
+
+
+}
+
+
+a:link, a:visited {
+
+	color: #38488f;
+	text-decoration: none;
+}
+
+
+@media (max-width: 700px;){
+
+
+	body {
+
+		background-color: #fff;
+
+	}
+
+	div {
+
+		width: auto;
+		margin: auto;
+		border-radius: 0;
+		padding: 1em;
+	}
+}
+
+
+		.Underlined{
+
+			text-decoration: underline;
+		}
+
+#login li.link{
+
+	margin-top: 5px;
+}
+
+footer{
+
+	border-top: 1px dashed #ddd;
+	color:#999;
+}
+
+.clear2{
+
+	clear:both;
+}
+
+
+#TopMenuNavBar {
+
+
+ position: absolute; top: 20px; left: 300px;
+ opacity: 0.7;
+
+
+
+}
+
+#TopMenuNavBar li{
+
+display: inline-block;
+
+list-style: none;
+padding: 8px;
+font:bold 17px Tahoma;
+text-decoration: underline;
+
+
+
+}
+
+
+#drewLogo {
+
+	position: absolute; top: 20px; left: 150px; 
+}
+
+
+#widget1 {
+
+position: absolute; top: 100px; left: 1100px;
+
+}
